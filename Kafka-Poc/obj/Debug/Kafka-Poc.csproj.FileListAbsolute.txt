@@ -1,0 +1,15 @@
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\Kafka-Poc.exe.config
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\x86\librdkafka.dll
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\x86\zlib.dll
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\x64\librdkafka.dll
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\x64\zlib.dll
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\Kafka-Poc.exe
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\Kafka-Poc.pdb
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\nunit.framework.dll
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\RdKafka.dll
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\nunit.framework.xml
+c:\src\Kafka-Poc\Kafka-Poc\obj\Debug\Kafka-Poc.csprojResolveAssemblyReference.cache
+c:\src\Kafka-Poc\Kafka-Poc\obj\Debug\Kafka-Poc.exe
+c:\src\Kafka-Poc\Kafka-Poc\obj\Debug\Kafka-Poc.pdb
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\Newtonsoft.Json.dll
+c:\src\Kafka-Poc\Kafka-Poc\bin\Debug\Newtonsoft.Json.xml
